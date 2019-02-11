@@ -1,0 +1,4 @@
+
+#ignore node modules and next files. should be good on re npm install
+node_modules
+.next

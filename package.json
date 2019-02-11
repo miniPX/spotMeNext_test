@@ -1,0 +1,28 @@
+{
+  "name": "nextbp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miniPX/nextBP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miniPX/nextBP/issues"
+  },
+  "homepage": "https://github.com/miniPX/nextBP#readme",
+  "dependencies": {
+    "@emotion/core": "^10.0.6",
+    "@emotion/styled": "^10.0.6",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
